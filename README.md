@@ -36,7 +36,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 <img <img width="1384" height="566" alt="image" src="https://github.com/user-attachments/assets/e511c66d-3033-469b-a5be-b94febcf0f1a" />
-/>
 </p>
 <p>
 1. Azure Infrastructure
