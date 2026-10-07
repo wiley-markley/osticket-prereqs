@@ -39,8 +39,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 1. Azure Infrastructure: Created a Windows 11 Azure VM. Configured the VM for RDP access. Connected to and administered the VM remotely.
-  -Created a Windows 11 Azure VM
-  -Configured the VM for RDP access
 </p>
 <br />
 
