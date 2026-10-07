@@ -54,6 +54,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img width="794" height="490" alt="image" src="https://github.com/user-attachments/assets/d50372a8-9b49-4a27-a174-3a7edd48a397" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<b>3. Database Configuration:</b> Installed and configured MySQL. Used HeidiSQL to manage the MySQL environment. Created the osTicket database. Configured osTicket to communicate with the MySQL database.
+</p>
+<br />
+
+<p>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/efcbe896-d829-4840-bb1b-22a9eb3a1731" />
+</p>
+<p>
+<b>4. osTicket Deployment:</b> Deployed osTicket to the IIS web root. Configured the application within IIS. Completed the osTicket web-based installation. Configured the help desk name, email settings, and database connection.
 </p>
 <br />
