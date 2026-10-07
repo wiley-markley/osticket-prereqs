@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket using a manually constructed virtual machine hosted in Microsoft Azure. The project involved configuring a web server, PHP runtime, MySQL database, application dependencies, permissions, and validating the completed help desk environment.<br />
+Built and deployed an osTicket help desk environment on a Windows 11 Azure VM. Configured IIS, PHP, MySQL, required application dependencies, permissions, and database connectivity, then validated the completed ticketing system.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -16,29 +16,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - HeidiSQL
 - osTicket
 
-<h2>Operating Systems Used </h2>
-
-- Windows 11</b> (25H2)
-
-<h2>Project Objectives</h2>
-
-- Deploy a Windows 11 VM in Azure
-- Configure IIS as a web server
-- Configure PHP to run through IIS
-- Deploy and configure osTicket
-- Create and connect a MySQL database
-- Configure required PHP extensions
-- Configure application file permissions
-- Validate the completed help desk environment
-- Perform post-installation security cleanup
-
 <h2>Implementation</h2>
 
 <p>
 <img width="1384" height="566" alt="image" src="https://github.com/user-attachments/assets/e511c66d-3033-469b-a5be-b94febcf0f1a" />
 </p>
 <p>
-<b>1. Azure Infrastructure:</b> Created a Windows 11 Azure VM. Configured the VM for RDP access. Connected to and administered the VM remotely.
+<b>1. Azure Infrastructure:</b> Created a Windows 11 Azure VM. Configured the VM for RDP access. Connected to and administered the VM remotely using the public IP address shown and the username and password I configured.
 </p>
 <br />
 
