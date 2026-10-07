@@ -30,7 +30,7 @@ Built and deployed an osTicket help desk environment on a Windows 11 Azure VM. C
 <img width="843" height="505" alt="image" src="https://github.com/user-attachments/assets/863f112b-5352-44e1-836d-33cf8536e9c2" />
 </p>
 <p>
-<b>2. Web Server & Application Stack:</b> Installed IIS with CGI. Installed PHP Manager for IIS. Installed the IIS URL Rewrite Module. Installed and registered PHP. Installed the required Visual C++ runtime. Enabled required PHP extensions.
+<b>2. Web Server & Application Stack:</b> Installed IIS with CGI. Installed PHP Manager for IIS. Enabled required PHP extensions. Then, installed the IIS URL Rewrite Module. Installed and registered PHP. Installed the required Visual C++ runtime.
 </p>
 <br />
 
@@ -38,7 +38,7 @@ Built and deployed an osTicket help desk environment on a Windows 11 Azure VM. C
 <img width="794" height="490" alt="image" src="https://github.com/user-attachments/assets/d50372a8-9b49-4a27-a174-3a7edd48a397" />
 </p>
 <p>
-<b>3. Database Configuration:</b> Installed and configured MySQL. Used HeidiSQL to manage the MySQL environment. Created the osTicket database. Configured osTicket to communicate with the MySQL database.
+<b>3. Database Configuration:</b> Installed and configured MySQL. Used HeidiSQL to manage the MySQL environment. Created the osTicket database. Then, configured osTicket to communicate with the MySQL database.
 </p>
 <br />
 
@@ -46,6 +46,6 @@ Built and deployed an osTicket help desk environment on a Windows 11 Azure VM. C
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/efcbe896-d829-4840-bb1b-22a9eb3a1731" />
 </p>
 <p>
-<b>4. osTicket Deployment:</b> Deployed osTicket to the IIS web root. Configured the application within IIS. Completed the osTicket web-based installation. Configured the help desk name, email settings, and database connection.
+<b>4. osTicket Deployment:</b> Deployed osTicket to the IIS web root and configured the help desk name, email settings, and database connection after configuring the application within IIS.
 </p>
 <br />
