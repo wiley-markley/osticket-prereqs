@@ -39,7 +39,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 />
 </p>
 <p>
-Azure Infrastructure
+1. Azure Infrastructure
+  -Created a Windows 11 Azure VM
+  -Configured the VM for RDP access
 </p>
 <br />
 
